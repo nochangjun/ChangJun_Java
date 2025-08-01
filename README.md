@@ -104,8 +104,7 @@ $ npm start
 ## 5.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| MySQL    |  <img src="https://logpresso.store/media/apps/mysql/featured.png" alt="MySQL Featured" width="100">
-    | 10.12.5    |
+| MySQL    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Firebase" width="100">    | 10.12.5    |
 
 <br/>
 
