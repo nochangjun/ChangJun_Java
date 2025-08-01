@@ -87,7 +87,7 @@ $ npm start
 ## 5.1 Language
 |  |  |
 |-----------------|-----------------|
-| Java    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> | 
+| Java    |  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100"> | 
 
 <br/>
 
